@@ -1,0 +1,3 @@
+[submodule "Localproject"]
+	path = Localproject
+	url = https://github.com/xyz/Localproject.git
